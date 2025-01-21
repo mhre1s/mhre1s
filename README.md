@@ -20,7 +20,7 @@
   </a>
 </p>
 <p align="center">
-I'm a Front-end developer who likes to work with HTML, CSS, JavaScript/Typescript (Reactjs) and Python. 
+I'm a Front-end developer who likes to work with HTML, CSS, JavaScript, Reactjs and Tailwind. 
 </p>
 
 <div align="center">
