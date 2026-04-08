@@ -20,7 +20,7 @@
   </a>
 </p>
 <p align="center">
-I'm a Fullstack developer who likes to work with Reactjs, Tanstack query, Tailwind, Expressjs, PostreSQL, Sequelize, Docker. 
+I'm a Backend developer who likes to work with Expressjs, PostreSQL, Sequelize, Docker. 
 </p>
 
 
